@@ -1,0 +1,233 @@
+<resources>
+    <string name="app_name">Krishna Bhajans</string>
+
+    <string name="my_mantra_new1">Lullaby of the Ocean</string>
+
+    <string name="my_mantra_new">Maiyaa mori, main Nahi Makhan Khayo\n
+
+    \nBhor bhayo gaiyan ke paache, Madhuvan mohi pathayo
+
+    \nchaar prahar vanshivat bhatakyo, saanj pare ghar aayo\n
+
+
+    \nMain baalak bahiyan ko choto, chinko kidi vidhi payo
+
+    \nGwaal baal sab bair pare hain, barbas mukh laptayo\n
+
+
+    \nTu janani man kii ati mori, inke kahe patiyaayo
+
+    \nJiya tete kachu bhed upjihai, jaani parayo jaayo\n
+
+
+    \nYaha le apani lakuti kambaliyaa, bahutahi naach nachaayo
+
+    \nJiya tete kachu bhed upjihai, jaani parayo jaayo
+
+    \nSurdas tab hanshi Yashodaa, lai ur-kanth lagaayo.
+    </string>
+    <string name="my_mantra_new2">Aum</string>
+    <string name="my_mantra_new3">Hare Krishna Hare Krishna,
+        \nKrishna Krishna Hare Hare\n
+
+        \nHare Rama Hare Rama,
+        \nRama Rama Hare Hare
+
+    </string>
+    <string name="my_mantra_new4">Aarti kunj bihari ki, shri girdhar krishna murari ki\n
+
+    \nGale mein baijanti mala, bajave murali madhur bala
+    \nShravan mein kundal jhalakala\n
+
+    \nNand ke anand nand lala
+    \nGagan sam ang kanti kali, radhika chamak rahi aali\n
+
+    \nRatan mein thadhe banamali
+    \nBhramar si alak, kasturi tilak, chandra si jhalak\n
+
+    \nLalit chhavi shyama pyari ki
+    \nShri giradhar krishnamuraari ki\n
+
+    \nAarti kunj bihari ki , Shri girdhar krishna murari ki\n
+
+    \nKanakmay mor mukut bilse, devata darsan ko tarse
+    \nGagan so suman raasi bares\n
+
+    \nBaje murchang, madhur mridang, gwaalin sang
+    \nAtual rati gop kumaari ki Shri giradhar krishna murari ki\n
+
+    \nAarti kunj bihari ki, Shri girdhar krishna murari ki
+
+    \nJahaan se pragat bhayi ganga, kalush kali haarini shri ganga,
+    \nSmaran se hot moh bhanga\n
+
+    \nBasi shiv shish, jataa ke beech, harei agh keech;
+    \nCharan chhavi shri banvaari ki. Shri giradhar krishnamuraari ki…\n
+
+    \nAarti kunj bihari ki, Shri girdhar krishna murari ki\n
+
+    \nChamakati ujjawal tat renu, baj rahi vrindavan benu
+    \nChahu disi gopi gwaal dhenu\n
+
+    \nHansat mridu mand, chandani chandra, katat bhav phand
+    \nTer sun deen bhikhaari ki, Shri giradhar krishnamuraari ki\n
+
+    \nAarti kunj bihari ki, Shri girdhar krishna murari ki
+    </string>
+    <string name="my_mantra_new5">Govind mero hai gopal mero hai\n
+
+    \nShri banke bihari nandlal mero hai
+    \nGovind mero hai gopal mero hai\n
+
+    \nGovind mero hai gopal mero hai
+    \nShri banke bihari nandlal mero hai
+    \nGovind mero hai gopal mero hai\n
+
+    \nGovind mero hai gopal mero hai
+    \nShri banke bihari nandlal mero hai
+    \nGovind mero hai gopal mero hai\n
+
+    \nGovind mero hai gopal mero hai
+    \nShri banke bihari nandlal mero hai
+    \nGovind mero hai gopal mero hai
+    </string>
+    <string name="my_mantra_new6">Bada Natkhat Hai Re Krishan Kanhaiya
+    \nKa Kare Yashoda Maiya Haan॥ Bada Natkhat Hai Re…॥\n
+
+    \nDhoondhe Ri Ankhiyaan Use Chanhu Aur
+    \nJaane Kahan Chhup Gaya Nandkishor॥ Dhoondhe Ri Ankhiyaan…॥
+    \nUd Gaya Aise Jaise Puravaiya, Ka Kare Yashoda Maiya Haan
+    \nBada Natkhat Hai Re…॥\n
+
+    \nMere Jeevan Ka Tu Ek Hi Sapna
+    \nJo Koi Dekhe Tohe Samjhe Woh Apna॥ Mere Jeevan Ka…॥
+    \nSabka Hai Pyara Bansi Bajaiya, Ka Kare Yashoda Maiya Haan
+    \nBada Natkhat Hai Re…॥\n
+
+    \nAa Tohe Main Gale Se Laga Loon
+    \nLaage Na Kisi Ki Nazar, Man Mein Chhupa Loon॥ Aa Tohe Main Gale…॥
+    \nDhoop Jagat Hai Re Mamta Hai Chhaiyaan, Ka Kare Yashoda Maiya Haan
+    \nBada Natkhat Hai Re…॥
+    </string>
+    <string name="my_mantra_new7">Choti Choti Gaiya Chotay Chotay Gwaal
+    \nChotoso Mero Madan Gopal\n
+
+    \nAage Aage Gaiya Pichay Pichay Gwaal
+    \nBeech-May Mero Madan Gopal
+    \nChoti Choti Gaiya Chotay Chotay Gwaal
+    \nChotoso Mero Madan Gopal\n
+
+    \nKaari Kaari Gaiya Goray Goray Gwaal
+    \nShyam Baran Mero Madan Gopal
+    \nChoti Choti Gaiya Chotay Chotay Gwaal
+    \nChotoso Mero Madan Gopal\n
+
+    \nGhaas Khaavay Gaiya Dhudh Peevay Gwaal
+    \nMaakhan Khaavay Mero Madan Gopal
+    \nChoti Choti Gaiya Chotay Chotay Gwaal
+    \nChotoso Mero Madan Gopal\n
+
+    \nChoti Choti Lakuti Chotay Chotay Haath
+    \nBansi Bajaaway Mero Madan Gopal
+    \nChoti Choti Gaiya Chotay Chotay Gwaal
+    \nChotoso Mero Madan Gopal\n
+
+    \nChoti Choti Sakhiyaan Madhuban Baal
+    \nRaas Rachaaway Mero Madan Gopal
+    \nChoti Choti Gaiya Chotay Chotay Gwaal
+    \nChotoso Mero Madan Gopal\n
+
+    \nChoti Choti Gaiya Chotay Chotay Gwaal
+    \nChotoso Mero Madan Gopal
+    </string>
+    <string name="my_mantra_new8">Yashomati maiya se bole nandlaala
+    \nRadha kyon gori, main kyon kaala\n
+
+    \nBoli muskaati maiya, lalan ko bataaya
+    \nKaari andhiyaari adhi raat mein tu aaya
+    \nLaadla Kanhaiya mera, kaali kamli waala
+    \nIsiliye kaala\n
+
+    \nBoli muskaati maiya, sun mere pyaare
+    \nGori gori Radhika ke nain kajraare
+    \nKaale nainon waali ne aisa jaadu daala
+    \nIsiliye kaala\n
+
+    \nItne mein Radha pyaari ayi ithhalaati
+    \nMaine na jaadu daala boli balakhaati
+    \nMaiya Kanhaiya tera jag se niraala
+    \nIsilie kaala
+    </string>
+    <string name="my_mantra_new9">Mera aapki kripa se, sab kaam ho raha hai।\n
+    \nkarte ho tum kanhaiya, mera naam ho raha hai.\n
+
+    \nmera aapki kripa se…\n
+
+    \nPatvaar ke bina hi meri naav chal rahi hai,
+    \nhairaan hai zamaana manzil bhi mil rahi hai.\n
+
+    \nKarta nahin main kuch bhi sab kaam ho raha hai.\n
+
+    \nMera aapki kripa se…\n
+
+    \nTum saath ho jo mere kis cheez ki kami hai,
+    \nkisi aur cheez ki ab darkaar bhi nahi hai.\n
+
+    \nTere naam se gulaam ab gulfaam ho raha hai.\n
+
+    \nMera aapki kripa se…\n
+
+    \n Main to nahin hoon kaabil tera pyaar kaise paoon,
+    \nTooti hue vaani se gungaan kaise gaoon.\n
+
+    \nMera aapki kripa se…\n
+    </string>
+    <string name="my_mantra_new10">Achyutam Keshavam Krishna Damodaram
+    \nRama Naraynam Janaki Vallabham
+    \nKaun Kehta Hai Bhagvan Aate Nahi
+    \nTum Meera Ke Jaise Bulate Nahi\n
+
+    \nAchyutam Keshavam Krishna Damodaram
+    \nRama Naraynam Janakivallabham
+    \nKaun Kehta Hai Bhagvan Khaate Nahi
+    \nBer Shabri Ke Jaise Khilate Nahi\n
+
+    \nAchyutam Keshavam Krishna Damodaram
+    \nRama Naraynam Janaki Vallabham
+    \nKaun Kehta Hai Bhagvan Sote Nahi
+    \nMaa Yashoda Ke Jaise Sulate Nahin\n
+
+    \nAchyutam Keshavam Krishna Damodaram
+    \nRama Naraynam Janaki Vallabham
+    \nKaun Kehta Hai Bhagvan Nachthe Nahi
+    \nGopiyo Ki Tarah Tum Nachathae Nahi\n
+
+    \nAchyutam Keshavam Krishna Damodaram,
+    \nRama Naraynam Janaki Vallabham,
+    \nNaam Japate Chalo Kaam Karte Chalo
+    \nHar Samay Krishna Ka Dhyaan Karte Chalo\n
+
+    \nAchyutam Keshavam Krishna Damodaram,
+    \nRama Naraynam Janaki Vallabham,
+    \nYaad Aayegi Unko Kabhi Na Kabhi
+    \nKrishan Darshan To Denge Kabhi Na Kabhi\n
+
+    \nAchyutam Keshavam Krishna Damodaram
+    \nRama Naraynam Janaki Vallabham
+    </string>
+    <string name="my_mantra_new11">Om Shri Sai Nathai Namah</string>
+    <string name="menu_action_language">Language</string>
+    <string name="menu_action_share">Share</string>
+    <string name="lang_dialog_title">Language Selection</string>
+    <string name="lang_dialog_message">Choose a language (More Coming Soon...)</string>
+    <string-array name="language">
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+    <string name="menu_action_settings">Settings</string>
+    <string name="menu_action_about">About</string>
+    <string name="menu_action_about_hanuman">About Radha Krishna</string>
+    <string name="bhagavad_gita">Bhagavad Gita</string>
+    <string name="bhajans">Bhajans</string>
+    <string name="share">Share</string>
+</resources>
